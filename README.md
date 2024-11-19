@@ -4,4 +4,4 @@ This repo contains models for probability of recession and time until recession 
 
 \data\ contains data input file.
 
-\src\ contains the jupyter notebooks for the models. "Recession" notebooks are for probability of recession models and "RecTime" are for time until recession models.
+\src\ contains the jupyter notebooks for the models. "Recession" notebooks are for probability of recession classifier models and "RecTime" are for time until recession regression models.
